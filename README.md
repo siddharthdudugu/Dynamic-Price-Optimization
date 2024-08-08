@@ -1,5 +1,5 @@
 # Dynamic-Price-Optimization
-Price Optimization using Dynamic Pricing Model, Price Elasticity Analysis &amp; Sales Analysis by Price Bracket
+## Price Optimization using Dynamic Pricing Model, Price Elasticity Analysis &amp; Sales Analysis by Price Bracket
 
 Price optimization is a strategic approach that uses data analysis and modelling to determine the optimal pricing of products or services. This process involves considering various factors, including market demand, competition, costs, and customer behaviour, to set prices that maximize profitability and market share. So, if you want to learn how to optimize prices for a product or service, this article is for you. In this article, I’ll take you through the task of Price Optimization using Python.
 
